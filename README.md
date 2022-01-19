@@ -4,7 +4,7 @@
 ![aws](icons/aws.svg)
 ![docker](icons/docker.svg)
 
-🚧 Read My website https://yemaney.github.io/ 🚧
+🚧 Website Under Construction https://yemaney.github.io/ 🚧
 
 <!--
 **yemaney/yemaney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
