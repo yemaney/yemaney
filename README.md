@@ -1,11 +1,12 @@
 ## Hi there 👋🤓
+
+🏗️ 👷‍♂️ 🚧 Website Under Construction https://yemaney.github.io/ 🚧 
+
+
 ![python](icons/python.svg)
 ![bash](icons/bash.svg)
 ![aws](icons/aws.svg)
 ![docker](icons/docker.svg)
-
-🚧 Website Under Construction https://yemaney.github.io/ 🚧
-
 <!--
 **yemaney/yemaney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
